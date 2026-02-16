@@ -71,8 +71,8 @@ export default function Contact() {
         {
             icon: MapPin,
             title: "Visit Us",
-            details: "Cheranelloor, Ernakulam",
-            subtext: "Operation Office, Kochi",
+            details: "OS 3 GCDA Complex, Marine Drive",
+            subtext: "Cochin, Ernakulam, Kerala",
             link: "#"
         }
     ];

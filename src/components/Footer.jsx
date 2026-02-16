@@ -129,7 +129,7 @@ export default function Footer() {
                             </a>
                             <div className="flex items-start text-gray-400">
                                 <MapPin className="w-5 h-5 mr-3 mt-0.5 text-[#8a48e7]" />
-                                <span className="text-sm">Operation Office<br />Cheranelloor, Ernakulam<br />Kochi, Kerala</span>
+                                <span className="text-sm">Operation Office<br />OS 3 GCDA Complex, Marine Drive<br />Cochin, Ernakulam, Kerala</span>
                             </div>
                         </div>
 
